@@ -9,4 +9,4 @@ Source codes are distributed in two directories: **localtuningwork** and **gcptu
 
 **gcptuningwork** directory is for learning hyperparameter tuning using Google Cloud AI Platform by submitting a training job.
 
-Inside each directory, there is a shell script as the main driver that runs the code. Go inside each directory for execution instructions.
+Inside each directory, there is a shell script as the main driver that runs the code. Go inside each directory for execution instructions. 
